@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/harsh1898/lk/static/css/main.9915dfb2.css",
-    "main.js": "/harsh1898/lk/static/js/main.aad42ad5.js",
-    "static/js/787.8407e17e.chunk.js": "/harsh1898/lk/static/js/787.8407e17e.chunk.js",
-    "static/media/demo.PNG": "/harsh1898/lk/static/media/demo.63e06d744313a6674c6b.PNG",
-    "static/media/img5.PNG": "/harsh1898/lk/static/media/img5.ac669a3923c3baa780c7.PNG",
-    "static/media/img3.PNG": "/harsh1898/lk/static/media/img3.f478b824fc8a95335d4c.PNG",
-    "static/media/img2.PNG": "/harsh1898/lk/static/media/img2.77505555dfae745c6f09.PNG",
-    "static/media/img1.PNG": "/harsh1898/lk/static/media/img1.53ce783bf1f2a1ace38f.PNG",
-    "static/media/img4.PNG": "/harsh1898/lk/static/media/img4.df35300f06a8bc171f5b.PNG",
-    "static/media/profile.png": "/harsh1898/lk/static/media/profile.dad6519d168cba0b5aae.png",
-    "static/media/img6.PNG": "/harsh1898/lk/static/media/img6.ed5e4c8a3dc4e062ceb7.PNG",
-    "static/media/demoPhone.PNG": "/harsh1898/lk/static/media/demoPhone.c3386198fc38610c7078.PNG",
-    "index.html": "/harsh1898/lk/index.html",
-    "main.9915dfb2.css.map": "/harsh1898/lk/static/css/main.9915dfb2.css.map",
-    "main.aad42ad5.js.map": "/harsh1898/lk/static/js/main.aad42ad5.js.map",
-    "787.8407e17e.chunk.js.map": "/harsh1898/lk/static/js/787.8407e17e.chunk.js.map"
+    "main.css": "/lk/static/css/main.9915dfb2.css",
+    "main.js": "/lk/static/js/main.fe424222.js",
+    "static/js/787.8407e17e.chunk.js": "/lk/static/js/787.8407e17e.chunk.js",
+    "static/media/demo.PNG": "/lk/static/media/demo.63e06d744313a6674c6b.PNG",
+    "static/media/img5.PNG": "/lk/static/media/img5.ac669a3923c3baa780c7.PNG",
+    "static/media/img3.PNG": "/lk/static/media/img3.f478b824fc8a95335d4c.PNG",
+    "static/media/img2.PNG": "/lk/static/media/img2.77505555dfae745c6f09.PNG",
+    "static/media/img1.PNG": "/lk/static/media/img1.53ce783bf1f2a1ace38f.PNG",
+    "static/media/img4.PNG": "/lk/static/media/img4.df35300f06a8bc171f5b.PNG",
+    "static/media/profile.png": "/lk/static/media/profile.dad6519d168cba0b5aae.png",
+    "static/media/img6.PNG": "/lk/static/media/img6.ed5e4c8a3dc4e062ceb7.PNG",
+    "static/media/demoPhone.PNG": "/lk/static/media/demoPhone.c3386198fc38610c7078.PNG",
+    "index.html": "/lk/index.html",
+    "main.9915dfb2.css.map": "/lk/static/css/main.9915dfb2.css.map",
+    "main.fe424222.js.map": "/lk/static/js/main.fe424222.js.map",
+    "787.8407e17e.chunk.js.map": "/lk/static/js/787.8407e17e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9915dfb2.css",
-    "static/js/main.aad42ad5.js"
+    "static/js/main.fe424222.js"
   ]
 }
